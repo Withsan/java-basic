@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="120d8233-8211-4851-90ea-2af4dd8bb59c" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QB022x6hyxYX9M5B84d1BBdIPW" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\javaworkspace\Testproxy\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testScope.sonPackage" />
+      <recent name="test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\javaworkspace\Testproxy\src\com\yinhai" />
+      <recent name="I:\javaworkspace\Testproxy\src\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test2">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.A" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ListMap" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jvm.StaticTest" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.juc.mylock.reentrantLock.Test" />
+      <module name="Testproxy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jvm.Test2" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestOO" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ListMap" />
+      <item itemvalue="Application.TestOO" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.StaticTest" />
+      <item itemvalue="Application.Test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.StaticTest" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.TestOO" />
+        <item itemvalue="Application.ListMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="120d8233-8211-4851-90ea-2af4dd8bb59c" name="Default" comment="" />
+      <created>1513142786948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513142786948</updated>
+      <workItem from="1513142799376" duration="762000" />
+      <workItem from="1530501400406" duration="4717000" />
+      <workItem from="1531134120902" duration="4021000" />
+      <workItem from="1531146049690" duration="4090000" />
+      <workItem from="1531191301687" duration="2234000" />
+      <workItem from="1531202796420" duration="686000" />
+      <workItem from="1531214339659" duration="27000" />
+      <workItem from="1531543854713" duration="3837000" />
+      <workItem from="1531570679894" duration="458000" />
+      <workItem from="1531631123480" duration="412000" />
+      <workItem from="1531647614093" duration="1041000" />
+      <workItem from="1531651831078" duration="35000" />
+      <workItem from="1531712814721" duration="1575000" />
+      <workItem from="1532680656516" duration="1405000" />
+      <workItem from="1532690198373" duration="954000" />
+      <workItem from="1532696969712" duration="634000" />
+      <workItem from="1533109105739" duration="1533000" />
+      <workItem from="1533195278261" duration="1704000" />
+      <workItem from="1533221642229" duration="978000" />
+      <workItem from="1533278157481" duration="881000" />
+      <workItem from="1533743758182" duration="895000" />
+      <workItem from="1533781419961" duration="240000" />
+      <workItem from="1533787581848" duration="1039000" />
+      <workItem from="1533872015886" duration="122000" />
+      <workItem from="1534130260513" duration="676000" />
+      <workItem from="1535945400185" duration="300000" />
+      <workItem from="1536067063778" duration="81000" />
+      <workItem from="1536211815000" duration="123000" />
+      <workItem from="1536549851525" duration="393000" />
+      <workItem from="1536724124012" duration="2190000" />
+      <workItem from="1536745419885" duration="117000" />
+      <workItem from="1537862697932" duration="18000" />
+      <workItem from="1537862721579" duration="28000" />
+      <workItem from="1545381770676" duration="1963000" />
+      <workItem from="1545875163652" duration="119000" />
+      <workItem from="1545875368813" duration="12022000" />
+      <workItem from="1553413806265" duration="1524000" />
+      <workItem from="1554706006855" duration="123000" />
+      <workItem from="1555566559910" duration="348000" />
+      <workItem from="1555586790759" duration="5701000" />
+      <workItem from="1555593023349" duration="1024000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61030000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583385635038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385635038" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1576134231612">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576134231612" />
+    <state width="466" height="438" key="DebuggerActiveHint" timestamp="1584689036440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="466" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584689036440" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584692298559">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584692298559" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584692298558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584692298558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584692298558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
+    <state width="1323" height="257" key="GridCell.Tab.1.bottom" timestamp="1584689128284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
+    <state width="1323" height="257" key="GridCell.Tab.1.center" timestamp="1584689128284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
+    <state width="1323" height="257" key="GridCell.Tab.1.left" timestamp="1584689128284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
+    <state width="1323" height="257" key="GridCell.Tab.1.right" timestamp="1584689128284">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="257" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1584694923517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584694923517" />
+    <state width="500" height="350" key="documentation.popup.size" timestamp="1584067313024">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="500" height="350" key="documentation.popup.size/0.0.1366.728@0.0.1366.728" timestamp="1584067313024" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584065282115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584065282115" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="src.get(j)" />
+        <watch expression="src.get(j + 1)" />
+        <watch expression="lastRet = i" language="JAVA" />
+        <watch expression="inDateCharArr[j]" />
+        <watch expression="inDateCharArr.length" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Testproxy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

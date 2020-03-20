@@ -1,0 +1,13 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ8·ÒùùÇ,
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ž©ƒá8­Ù¡üÇ,
+Lsquid:S1481
+".Remove this unused "exception" local variable.(¯¬²³8­Ù¡üÇ,
+[squid:S1854
+"=Remove this useless assignment to local variable "exception".(¯¬²³8­Ù¡üÇ,
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬­Ž98ÿ¸®¹É,
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ž©ƒá8­Ù¡üÇ,
+Dsquid:S1452"&Remove usage of generic wildcard type.(Ž©ƒá8­Ù¡üÇ,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8îŽ¦üÇ,
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Åÿ¼8­Ù¡üÇ,
