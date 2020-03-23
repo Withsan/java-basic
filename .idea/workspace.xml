@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="120d8233-8211-4851-90ea-2af4dd8bb59c" name="Default" comment="" />
+    <list default="true" id="120d8233-8211-4851-90ea-2af4dd8bb59c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/bank/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/bankimp/BankImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/bankproxy/BankProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wyl/client/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yinhai/Template.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BitMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Equals.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ListMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/MyObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Recursion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Reference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/StreamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/String2Stringarr.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestMapRemove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestOO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestReg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestSplit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/Testnull.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/entendsandsuper/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/entendsandsuper/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/entendsandsuper/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/entendsandsuper/Plate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/entendsandsuper/TestExtendsAndSuper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/CallableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/ContDownLatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/CyclicBarrierTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/LockTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/SemaphoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/Volatile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/ZhiFuBao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/mylock/reentrantLock/ReentrantLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/mylock/reentrantLock/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/mylock/unreentrantlock/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/juc/mylock/unreentrantlock/UnReentrantLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/jvm/StaticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/jvm/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testScope/OutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testScope/fatherPackage/Father.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testScope/fatherPackage/FatherTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testScope/sonPackage/Son.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testScope/sonPackage/SonTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +75,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1QB022x6hyxYX9M5B84d1BBdIPW" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -31,7 +100,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,10 +113,10 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
@@ -60,57 +134,9 @@
       <recent name="I:\javaworkspace\Testproxy\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test2">
+  <component name="RunManager">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.A" />
-      <module name="java-basice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ListMap" />
-      <module name="java-basice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.jvm.StaticTest" />
-      <module name="java-basice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.juc.mylock.reentrantLock.Test" />
-      <module name="Testproxy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.jvm.Test2" />
-      <module name="java-basice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestOO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestOO" />
-      <module name="java-basice" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,23 +154,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ListMap" />
-      <item itemvalue="Application.TestOO" />
-      <item itemvalue="Application.A" />
-      <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.Test2" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.StaticTest" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.TestOO" />
-        <item itemvalue="Application.ListMap" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -209,44 +218,48 @@
       <workItem from="1555566559910" duration="348000" />
       <workItem from="1555586790759" duration="5701000" />
       <workItem from="1555593023349" duration="1024000" />
+      <workItem from="1584977532320" duration="1687000" />
+      <workItem from="1584979439724" duration="574000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61030000" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583385635038">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="872" y="178" key="#Project_Structure" timestamp="1584979840800">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="178" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1584979840800" />
+    <state x="257" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584979477898">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385635038" />
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1576134231612">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1576134231612" />
+    <state x="257" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584979477898" />
     <state width="466" height="438" key="DebuggerActiveHint" timestamp="1584689036440">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="466" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584689036440" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1584692298559">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1584980015943">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584692298559" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1584692298558">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1584980015943" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1584980015943">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1584692298558">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1584980015943" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1584980015942">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1584692298558">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1584980015942" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1584980015943">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
+    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1584980015943" />
     <state width="1323" height="257" key="GridCell.Tab.1.bottom" timestamp="1584689128284">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -263,14 +276,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="257" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1584694923517">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="345" y="9" key="SettingsEditor" timestamp="1584980014507">
+      <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584694923517" />
+    <state x="345" y="9" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584980014507" />
+    <state x="978" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584978071041">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="978" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1040@0.0.2560.1040" timestamp="1584978071041" />
     <state width="500" height="350" key="documentation.popup.size" timestamp="1584067313024">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="500" height="350" key="documentation.popup.size/0.0.1366.728@0.0.1366.728" timestamp="1584067313024" />
+    <state x="956" y="253" width="647" height="534" key="find.popup" timestamp="1584978349082">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="956" y="253" width="647" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1584978349082" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1584065282115">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -286,92 +308,5 @@
         <watch expression="inDateCharArr.length" />
       </configuration>
     </watches-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>lib1</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Testproxy</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
