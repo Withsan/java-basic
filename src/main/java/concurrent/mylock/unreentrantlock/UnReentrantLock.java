@@ -11,20 +11,21 @@ public class UnReentrantLock {
      * 获取锁
      */
     public synchronized void lock() throws InterruptedException {
-     //1 判断锁的状态
-        if(isLock){
+        //1 判断锁的状态
+        if (isLock) {
             System.out.println("wait");
             wait();
         }
-     //2 获取锁
+        //2 获取锁
         isLock = true;
     }
-    public synchronized void unlock(){
+
+    public synchronized void unlock() {
         //1 判断锁的状态
-        if(!isLock){
+        if (!isLock) {
             throw new IllegalStateException("not locked yet");
-        }else {
-        //2 释放锁
+        } else {
+            //2 释放锁
             isLock = false;
             notify();
         }

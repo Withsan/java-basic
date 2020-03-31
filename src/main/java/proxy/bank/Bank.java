@@ -1,6 +1,17 @@
 package proxy.bank;
 
+/**
+ * @author Wyl
+ */
 public interface Bank {
-    public void saveMoney();
-    public int getMoney();
+    /**
+     *
+     */
+    void saveMoney();
+
+    /**
+     *
+     * @return
+     */
+    int getMoney();
 }

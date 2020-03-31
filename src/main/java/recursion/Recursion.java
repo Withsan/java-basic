@@ -8,14 +8,15 @@ public class Recursion {
         hanoi(4, 1, 2, 3);
     }
 
-	/**
-	 * 汉诺塔
-	 * @param n
-	 * @param t1
-	 * @param t2
-	 * @param t3
-	 */
-    public static void hanoi(int n, int t1, int t2, int t3)  {
+    /**
+     * 汉诺塔
+     *
+     * @param n
+     * @param t1
+     * @param t2
+     * @param t3
+     */
+    public static void hanoi(int n, int t1, int t2, int t3) {
         if (n == 1) {
             System.out.println("从" + t1 + "移到" + t3);
         } else {
@@ -25,11 +26,12 @@ public class Recursion {
         }
     }
 
-	/**
-	 * 字符串反转
-	 * @param str
-	 * @return
-	 */
+    /**
+     * 字符串反转
+     *
+     * @param str
+     * @return
+     */
     public static String reverseRecursively(String str) {
         if (str.length() <= 1) {
             return str;

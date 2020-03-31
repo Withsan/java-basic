@@ -5,25 +5,27 @@ import java.util.concurrent.TimeUnit;
 public class DeadLockDemo {
     private static String locka = "locka";
     private static String lockb = "lockb";
-    public  void methodA()  {
-        synchronized (locka){
+
+    public void methodA() {
+        synchronized (locka) {
             System.out.println("lockA is locked");
             try {
                 TimeUnit.SECONDS.sleep(1);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            synchronized (lockb){
+            synchronized (lockb) {
 
                 System.out.println("lockB is locked");
             }
         }
     }
-    public  void methodB()  {
 
-        synchronized (lockb){
+    public void methodB() {
+
+        synchronized (lockb) {
             System.out.println("lockB is locked");
-            synchronized (locka){
+            synchronized (locka) {
                 System.out.println("lockA is locked");
             }
         }

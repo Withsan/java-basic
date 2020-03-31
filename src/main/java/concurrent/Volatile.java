@@ -11,9 +11,9 @@ public class Volatile {
         SubThread sub = new SubThread();
         Thread subThread = new Thread(sub);
         subThread.start();
-        while (true){
-            if (sub.flag){
-                System.out.println("上面："+sub.flag);
+        while (true) {
+            if (sub.flag) {
+                System.out.println("上面：" + sub.flag);
                 break;
             }
         }
@@ -21,8 +21,9 @@ public class Volatile {
 }
 
 class SubThread implements Runnable {
-    public volatile boolean  flag = false;
-//    public  boolean  flag = false;
+    public volatile boolean flag = false;
+
+    //    public  boolean  flag = false;
     @Override
     public void run() {
         try {
@@ -31,7 +32,7 @@ class SubThread implements Runnable {
             e.printStackTrace();
         }
         flag = true;
-        System.out.println("下面："+flag);
+        System.out.println("下面：" + flag);
     }
 
 }

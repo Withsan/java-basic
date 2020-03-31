@@ -10,7 +10,8 @@ public class Test {
         methodA(unReentrantLock);
 
     }
-    public static void methodA(UnReentrantLock unReentrantLock){
+
+    public static void methodA(UnReentrantLock unReentrantLock) {
         try {
             unReentrantLock.lock();
             methodB(unReentrantLock);
@@ -21,13 +22,15 @@ public class Test {
         }
 
     }
-    public static void methodB(UnReentrantLock unReentrantLock){try {
-        unReentrantLock.lock();
-    } catch (InterruptedException e) {
-        e.printStackTrace();
-    } finally {
-        unReentrantLock.unlock();
-    }
+
+    public static void methodB(UnReentrantLock unReentrantLock) {
+        try {
+            unReentrantLock.lock();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
+            unReentrantLock.unlock();
+        }
 
     }
 }

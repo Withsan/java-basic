@@ -25,6 +25,7 @@ public class TestUnSafe {
 
     /**
      * 测试不成功
+     *
      * @throws NoSuchFieldException
      */
     @Test
@@ -34,11 +35,12 @@ public class TestUnSafe {
         Field id = data.getClass().getDeclaredField("id");
         long l = unsafe.objectFieldOffset(id);
         id.setAccessible(true);
-         //比较并交换，比如id的值如果是所期望的值1，那么就替换为2，否则不做处理
-        unsafe.compareAndSwapLong(data,1L,1L,2L);
+        //比较并交换，比如id的值如果是所期望的值1，那么就替换为2，否则不做处理
+        unsafe.compareAndSwapLong(data, 1L, 1L, 2L);
         System.out.println(data.getId());
     }
-    class Data{
+
+    class Data {
         long id;
 
         public long getId() {

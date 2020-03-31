@@ -103,6 +103,7 @@ public class JavaBasic {
             e.printStackTrace();
         }
     }
+
     /**
      * 文件拷贝
      * 测试Files
@@ -113,8 +114,8 @@ public class JavaBasic {
     public static void copyFile3(String source, String target) {
         File sourceFile = new File(source);
         File targetFile = new File(target);
-        try  {
-           Files.copy(sourceFile.toPath(),targetFile.toPath());
+        try {
+            Files.copy(sourceFile.toPath(), targetFile.toPath());
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -122,53 +123,58 @@ public class JavaBasic {
 
     /**
      * catch 会缓存最终return值
+     *
      * @return
      */
-    public static int testTryCatchReturn(){
+    public static int testTryCatchReturn() {
         int b;
         try {
-             b = 3/0;
-        } catch (Exception e) {
-           b = 4;
-           return b;
-        } finally {
-            b = 5;
-            System.out.println("testTryCatchReturn 最终b="+b);
-        }
-
-        return b;
-    }
-    /**
-     * 返回 finally return 值
-     * @return
-     */
-    public static int testTryCatchReturn2(){
-        int b;
-        try {
-            b = 3/0;
+            b = 3 / 0;
         } catch (Exception e) {
             b = 4;
             return b;
         } finally {
             b = 5;
-            System.out.println("testTryCatchReturn2 最终b="+b);
+            System.out.println("testTryCatchReturn 最终b=" + b);
+        }
+
+        return b;
+    }
+
+    /**
+     * 返回 finally return 值
+     *
+     * @return
+     */
+    public static int testTryCatchReturn2() {
+        int b;
+        try {
+            b = 3 / 0;
+        } catch (Exception e) {
+            b = 4;
+            return b;
+        } finally {
+            b = 5;
+            System.out.println("testTryCatchReturn2 最终b=" + b);
             return b;
         }
     }
+
     /**
      * 递归查找目录下所有文件或目录路径
+     *
      * @return
      */
-    public static void recursionOfFilePath(String path, List<String> filePathList){
-       var pathOfFile = new File(path);
-       var fileArray = pathOfFile.listFiles();
-       for(var file:fileArray){
-           if(file.isDirectory()){
-               filePathList.add(file.getPath());
-               recursionOfFilePath(file.getPath(),filePathList);
-           }else {
-               filePathList.add(file.getPath());
-           }
-       }
+    public static void recursionOfFilePath(String path, List<String> filePathList) {
+        var pathOfFile = new File(path);
+        var fileArray = pathOfFile.listFiles();
+        for (var file : fileArray) {
+            if (file.isDirectory()) {
+                filePathList.add(file.getPath());
+                recursionOfFilePath(file.getPath(), filePathList);
+            } else {
+                filePathList.add(file.getPath());
+            }
+        }
     }
 }
