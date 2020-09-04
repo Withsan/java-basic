@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="120d8233-8211-4851-90ea-2af4dd8bb59c" name="Default" comment="暂时合并以前的东西">
+      <change afterPath="$PROJECT_DIR$/src/main/java/concurrent/ScheduledExecutorServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/extendsandsuper/NowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/extendsandsuper/container/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/extendsandsuper/food/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/extendsandsuper/food/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jvm/extendsandsuper/food/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/bankimp/BankImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proxy/bankimp/ICBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/proxy/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/proxy/client/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javabasic/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javabasic/A.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +64,13 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Program Files/Java/apache-maven-3.6.2" />
+        <option name="localRepository" value="E:\maven\repository" />
+        <option name="mavenHome" value="C:\Program Files\Java\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Program Files\Java\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -45,7 +80,6 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -53,6 +87,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -65,44 +100,63 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="I:\javaworkspace\Testproxy\src\test" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="testScope.sonPackage" />
-      <recent name="test" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="I:\javaworkspace\Testproxy\src\com\yinhai" />
       <recent name="I:\javaworkspace\Testproxy\src\test" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jvm.extendsandsuper.container" />
+      <recent name="testScope.sonPackage" />
+      <recent name="test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\javaworkspace\Testproxy\src\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Recursion">
+  <component name="RunManager" selected="Application.ScheduledExecutorServiceTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Recursion" />
+    <configuration name="NowTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.extendsandsuper.NowTest" />
       <module name="java-basice" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScheduledExecutorServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrent.ScheduledExecutorServiceTest" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.StaticTest" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Test2" />
+      <module name="java-basice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,23 +193,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.ScheduledExecutorServiceTest" />
+        <item itemvalue="Application.NowTest" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.StaticTest" />
         <item itemvalue="JUnit.A.a" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -211,6 +257,14 @@
       <workItem from="1584979439724" duration="642000" />
       <workItem from="1585376827073" duration="1307000" />
       <workItem from="1585475221648" duration="5121000" />
+      <workItem from="1595918461482" duration="820000" />
+      <workItem from="1595919289960" duration="35000" />
+      <workItem from="1595919407041" duration="1659000" />
+      <workItem from="1596089341111" duration="6971000" />
+      <workItem from="1596609004257" duration="1813000" />
+      <workItem from="1596676223117" duration="900000" />
+      <workItem from="1597024362249" duration="723000" />
+      <workItem from="1597109246467" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="暂时合并以前的东西">
       <created>1584980048094</created>
@@ -230,101 +284,81 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="暂时合并以前的东西" />
     <option name="LAST_COMMIT_MESSAGE" value="暂时合并以前的东西" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="872" y="178" key="#Project_Structure" timestamp="1584979840800">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="717" y="210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596609112031">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="178" key="#Project_Structure/0.0.2560.1040@0.0.2560.1040" timestamp="1584979840800" />
-    <state x="257" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584979477898">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="717" y="210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596609112031" />
+    <state width="483" height="466" key="DebuggerActiveHint" timestamp="1597025079150">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583385635038" />
-    <state x="257" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1584979477898" />
-    <state x="899" y="113" key="CommitChangelistDialog2" timestamp="1585493092568">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="483" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1597025079150" />
+    <state x="719" y="204" key="FileChooserDialogImpl" timestamp="1595919312677">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="899" y="113" key="CommitChangelistDialog2/0.0.2560.1040@0.0.2560.1040" timestamp="1585493092568" />
-    <state width="874" height="626" key="DebuggerActiveHint" timestamp="1585475641679">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="719" y="204" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595919312677" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="466" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1584689036440" />
-    <state width="874" height="626" key="DebuggerActiveHint/0.0.2560.1040@0.0.2560.1040" timestamp="1585475641679" />
-    <state width="2517" height="282" key="GridCell.Tab.0.bottom" timestamp="1585493038458">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584692298559" />
-    <state width="2517" height="282" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585493038458" />
-    <state width="2517" height="282" key="GridCell.Tab.0.center" timestamp="1585493038458">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
-    <state width="2517" height="282" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585493038458" />
-    <state width="2517" height="282" key="GridCell.Tab.0.left" timestamp="1585493038458">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
-    <state width="2517" height="282" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585493038458" />
-    <state width="2517" height="282" key="GridCell.Tab.0.right" timestamp="1585493038458">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1597110018275">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584692298558" />
-    <state width="2517" height="282" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585493038458" />
-    <state width="2517" height="348" key="GridCell.Tab.1.bottom" timestamp="1585475788587">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018275" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="257" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
-    <state width="2517" height="348" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1585475788587" />
-    <state width="2517" height="348" key="GridCell.Tab.1.center" timestamp="1585475788587">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1597110018274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="257" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
-    <state width="2517" height="348" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1585475788587" />
-    <state width="2517" height="348" key="GridCell.Tab.1.left" timestamp="1585475788587">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018274" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1597110018275">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="257" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
-    <state width="2517" height="348" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1585475788587" />
-    <state width="2517" height="348" key="GridCell.Tab.1.right" timestamp="1585475788587">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597110018275" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1595919751082">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1323" height="257" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1584689128284" />
-    <state width="2517" height="348" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1585475788587" />
-    <state x="345" y="9" key="SettingsEditor" timestamp="1584980014507">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1595919751082" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1597025064728">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584694923517" />
-    <state x="345" y="9" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1584980014507" />
-    <state x="872" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585492979834">
-      <screen x="0" y="0" width="2560" height="1040" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1597025064728" />
+    <state x="662" y="252" width="596" height="536" key="find.popup" timestamp="1596092010054">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="872" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1585492979834" />
-    <state x="978" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584978071041">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="978" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2560.1040@0.0.2560.1040" timestamp="1584978071041" />
-    <state width="500" height="350" key="documentation.popup.size" timestamp="1584067313024">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="500" height="350" key="documentation.popup.size/0.0.1366.728@0.0.1366.728" timestamp="1584067313024" />
-    <state x="956" y="253" width="647" height="534" key="find.popup" timestamp="1585376843282">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="956" y="253" width="647" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1585376843282" />
-    <state x="997" y="311" key="git4idea.merge.GitPullDialog" timestamp="1585492971599">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="997" y="311" key="git4idea.merge.GitPullDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1585492971599" />
-    <state x="648" y="70" width="1260" height="969" key="search.everywhere.popup" timestamp="1585376837157">
-      <screen x="0" y="0" width="2560" height="1040" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1584065282115" />
-    <state x="648" y="70" width="1260" height="969" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1585376837157" />
+    <state x="662" y="252" width="596" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596092010054" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

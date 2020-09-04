@@ -6,7 +6,7 @@ import proxy.bank.Bank;
 /**
  * @author Wyl
  */
-public class BankImp implements Bank {
+public class ICBC implements Bank {
     @Override
     public void saveMoney() {
         System.out.println("存钱");
